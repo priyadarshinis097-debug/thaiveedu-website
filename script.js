@@ -1,6 +1,6 @@
 function orderProduct(productName) {
 
-    let phoneNumber = "918148689454";
+    let phoneNumber = "7305035991";
 
     let message =
         "Hello Thaiveedu! I am interested in ordering " +
